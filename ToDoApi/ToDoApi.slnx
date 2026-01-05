@@ -1,1 +1,11 @@
-<Solution />
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="BaoLam.ToDoApi.Api/BaoLam.ToDoApi.Api.csproj" />
+    <Project Path="BaoLam.ToDoApi.Application/BaoLam.ToDoApi.Application.csproj" />
+    <Project Path="BaoLam.ToDoApi.Domain/BaoLam.ToDoApi.Domain.csproj" />
+    <Project Path="BaoLam.ToDoApi.Infrastructure/BaoLam.ToDoApi.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="BaoLam.ToDoApi.UnitTests/BaoLam.ToDoApi.UnitTests.csproj" />
+  </Folder>
+</Solution>
